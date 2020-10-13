@@ -29,7 +29,7 @@ twitter_username: [TWITTER-USERNAME]
 github_username:  anamika-avinash
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
