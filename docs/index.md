@@ -1,4 +1,4 @@
-:email: anuavinash@gmail.com
+:e-mail: anuavinash@gmail.com
 
 :telephone_receiver: +353892006352
 
