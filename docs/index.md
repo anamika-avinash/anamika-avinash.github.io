@@ -9,7 +9,7 @@
 :spiral_calendar: Apr 2019-Sep 2020    :office: Amazon Web Services    :round_pushpin: Dublin, Ireland
 
 ### Cloud Support Associate
-:spiral_calendar: Jul 2017-Mar 2019    :office: Amazon Web Services    :round_pushpin: Dublin, Ireland
+> Jul 2017-Mar 2019    > Amazon Web Services    > Dublin, Ireland
 + Work with Dev Ops technologies, automation, infrastructure orchestration, configuration management and CI/CD tools
 + Liaised with large enterprise customers to resolve production impacting complex technical issues with services such as CloudFormation, ECS and EKS
 + Also involved in visiting customers to assist with production setups
