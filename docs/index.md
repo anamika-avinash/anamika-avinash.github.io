@@ -18,16 +18,18 @@
 + Delivered training sessions and created content exclusively on Kubernetes, Docker and EKS
 + Extensive troubleshooting of Linux, Networking, EC2, ElasticLoadBalancer, Route53, IAM,EBS and many more AWS services
 + Created public content on Github and AWS Knowledge Centre for EKS
+-------------------------------------------------------------------
 
 ### Intern
 > Sep 2016–Jun 2017   > Unipupil Limited   > Dublin, Ireland
 + Updated and managed existing website properties for the company
 + Presented pros and cons of various design approaches to design teams and management
 + Assist in the development and deployment of website application
+-------------------------------------------------------------------
 
 ### Network Virtualisation Engineer
 > Dec 2015-Aug 2016   > Tech Mahindra   > Bangalore, India
 + Operated and maintained the VMs on both vSphere and KVM
 + Created and analyzed functionality of VMs
 + Monitored network infrastructure for various virtual systems
-
+-------------------------------------------------------------------
