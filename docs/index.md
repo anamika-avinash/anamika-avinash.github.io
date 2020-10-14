@@ -2,13 +2,13 @@
 
 ## EXPERIENCE
 
-### > Cloud Support Engineer II
+### Cloud Support Engineer II
 :spiral_calendar: Oct 2020-Present    :office: Amazon Web Services    :round_pushpin: Dublin, Ireland
 
-### > Cloud Support Engineer I
+### Cloud Support Engineer I
 :spiral_calendar: Apr 2019-Sep 2020    :office: Amazon Web Services    :round_pushpin: Dublin, Ireland
 
-### > Cloud Support Associate
+### Cloud Support Associate
 :spiral_calendar: Jul 2017-Mar 2019    :office: Amazon Web Services    :round_pushpin: Dublin, Ireland
 + Work with Dev Ops technologies, automation, infrastructure orchestration, configuration management and CI/CD tools
 + Liaised with large enterprise customers to resolve production impacting complex technical issues with services such as CloudFormation, ECS and EKS
@@ -19,14 +19,15 @@
 + Extensive troubleshooting of Linux, Networking, EC2, ElasticLoadBalancer, Route53, IAM,EBS and many more AWS services
 + Created public content on Github and AWS Knowledge Centre for EKS
 
-### > Intern
+### Intern
 :spiral_calendar: Sep 2016–Jun 2017   :office: Unipupil Limited   :round_pushpin: Dublin, Ireland
-+ Updated and managed existing website properties for the company.
-+ Presented pros and cons of various design approaches to design teams and management.
-+ Assist in the development and deployment of website application.
++ Updated and managed existing website properties for the company
++ Presented pros and cons of various design approaches to design teams and management
++ Assist in the development and deployment of website application
 
-### > Network Virtualisation Engineer
+### Network Virtualisation Engineer
 :spiral_calendar: Dec 2015-Aug 2016   :office: Tech Mahindra   :round_pushpin: Bangalore, India
-+ Operated and maintained the VMs on both , vSphere and KVM. Also created and analyzed functionality of VMs.
-+ Monitored network infrastructure for various virtual systems.
++ Operated and maintained the VMs on both vSphere and KVM
++ Created and analyzed functionality of VMs
++ Monitored network infrastructure for various virtual systems
 
