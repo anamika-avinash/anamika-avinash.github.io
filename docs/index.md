@@ -1,10 +1,15 @@
-:e-mail: anuavinash@gmail.com
-
-:telephone_receiver: +353892006352
+:e-mail: anuavinash@gmail.com  :telephone_receiver: +353892006352  :house_with_garden: Dublin  :globe_with_meridians: linkedin.com/in/anamika-avinash-a6a264a9
 
 ## EXPERIENCE
 
 ### Cloud Support Engineer II
+:spiral_calendar: Oct 2020-Present  :office: Amazon Web Services  :round_pushpin: Dublin, Ireland
+
+### Cloud Support Engineer I
+:spiral_calendar: Apr 2019-Sep 2020  :office: Amazon Web Services  :round_pushpin: Dublin, Ireland
+
+### Cloud Support Associate
+:spiral_calendar: Jul 2017-Mar 2019  :office: Amazon Web Services  :round_pushpin: Dublin, Ireland
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
