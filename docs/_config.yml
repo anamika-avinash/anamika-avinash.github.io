@@ -33,6 +33,7 @@ github_username:  anamika-avinash
 theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
+  - jemoji
 
 # Exclude from processing.
 # The following items will not be processed, by default.
