@@ -1,4 +1,4 @@
-:e-mail: anuavinash@gmail.com  :telephone_receiver: +353892006352  :house_with_garden: Dublin  :globe_with_meridians: linkedin.com/in/anamika-avinash-a6a264a9
+:e-mail: anuavinash@gmail.com  :telephone_receiver: +353892006352  :house_with_garden: Dublin  :globe_with_meridians: (https://linkedin.com/in/anamika-avinash-a6a264a9)
 
 ## EXPERIENCE
 
