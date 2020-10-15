@@ -4,9 +4,11 @@
 
 ### Cloud Support Engineer II
 > Oct 2020-Present    > Amazon Web Services    > Dublin, Ireland
+-------------------------------------------------------------------
 
 ### Cloud Support Engineer I
 > Apr 2019-Sep 2020    > Amazon Web Services    > Dublin, Ireland
+-------------------------------------------------------------------
 
 ### Cloud Support Associate
 > Jul 2017-Mar 2019    > Amazon Web Services    > Dublin, Ireland
@@ -32,4 +34,5 @@
 + Operated and maintained the VMs on both vSphere and KVM
 + Created and analyzed functionality of VMs
 + Monitored network infrastructure for various virtual systems
+-------------------------------------------------------------------
 -------------------------------------------------------------------
